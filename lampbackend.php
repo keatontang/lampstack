@@ -82,7 +82,7 @@ body{
 <BR>
 <form action=index.php method=post>
 <table><TR><TD width=400>
-<textarea placeholder="What's up?" name=post class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+<textarea placeholder="What's up? (max 140 chars)" name=post class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 </td><TD>
 <button type="submit" class="btn btn-primary btn-lg">Post</button>
 </td></tr></table>
