@@ -9,6 +9,7 @@ Front-end is HTML generated server-side via the PHP backend using Bootstrap
 
 # Credits
 
-[LAMP Stack Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-debian9) by Mark Drake
-[Twitter clone](https://www.youtube.com/watch?v=1YXqXPWjmKk&t=73s) by Patrick Shyu
+- [LAMP Stack Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-debian9) by Mark Drake
+
+- [Twitter Clone](https://www.youtube.com/watch?v=1YXqXPWjmKk&t=73s) by Patrick Shyu
 
