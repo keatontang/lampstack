@@ -1,5 +1,5 @@
 # lampstack
-PHP backend/frontend for full-stack web development project on LAMP stack (Linux, Apache, SQL, PHP)
+PHP backend + HTML/CSS/JS frontend for full-stack web development project on LAMP stack (Linux, Apache, SQL, PHP)
 
 The linux distribution used was Debian 9
 
@@ -12,4 +12,6 @@ Front-end is HTML generated server-side via the PHP backend using Bootstrap
 - [LAMP Stack Setup](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-debian9) by Mark Drake
 
 - [Twitter Clone](https://www.youtube.com/watch?v=1YXqXPWjmKk&t=73s) by Patrick Shyu
+
+- [Bootstrap](https://getbootstrap.com/)
 
