@@ -1,9 +1,9 @@
 # lampstack
 PHP backend + HTML/CSS/JS frontend for full-stack web development project on LAMP stack (Linux, Apache, SQL, PHP)
 
-The linux distribution used was Debian 9, with the web app being deployed on the Google Cloud Platform
+Linux (Debian 9) instance deployed on GCP
 
-Front-end is HTML/CSS/JS generated server-side via the PHP backend using the Bootstrap framework
+Front-end is SSR HTML/CSS/JS 
 
 # Credits
 
